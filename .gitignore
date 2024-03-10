@@ -1,0 +1,6 @@
+.vscode/
+build/info/
+media/
+*.nes
+*.o
+*.bat
